@@ -10,20 +10,14 @@
 ---
 
 ## 🧰 Kỹ năng
+* SQL
+* Python
 
----
-
-## 📸 Hình ảnh
----
-
-## 🚀 Dự án
----
-
-## 📊 GitHub Stats
 ---
 
 ## 📫 Liên hệ
 
 * 📧 Email: trongphan18112006@gmail.com
 * 🌐 Facebook : https://www.facebook.com/trong.phanvinh.142/
-* 🌐 LinkedIn : linkedin.com/in/phan-vĩnh-trọng-9b4378359
+* 🌐 LinkedIn : https://www.linkedin.com/in/phan-vinh-trong-9b4378359/
+
